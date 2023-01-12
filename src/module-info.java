@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Italovskii
+ *
+ */
+module palindromo {
+}
